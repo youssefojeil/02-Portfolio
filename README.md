@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was created as a personal portfolio using HTML and CSS. Completing this challenge helped reinforce HTML & CSS syntax, fundamentals & styling. I mainly learned how to use flexbox & build a responsive website.
+This website was created as a personal portfolio using HTML and CSS. Completing this challenge helped reinforce HTML & CSS syntax, fundamentals & styling. I mainly learned how to use flexbox & build a responsive website with different elements such as images, text within images, lists, navbar, links & more.
 
 ### User Story
 
